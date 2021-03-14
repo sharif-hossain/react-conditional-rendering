@@ -1,0 +1,9 @@
+.tweet-body p {
+    padding: 1rem;
+    line-height: 1.6rem;
+  }
+  .tweet-body__time {
+    font-style: italic;
+    color: #455a64;
+    font-size: 0.9rem;
+  }

@@ -1,0 +1,32 @@
+.tweet-comments {
+    margin-top: 1rem;
+  }
+  
+  .tweet-count {
+    font-weight: bold;
+  }
+  
+  .tweet-comment {
+    padding: 1rem 0;
+    border-bottom: 1px solid #455a6415;
+    font-size: 0.9rem;
+  }
+  .tweet-comment:last-child {
+    border-bottom: none;
+  }
+  .tweet-comment__name {
+    font-weight: bold;
+  }
+  .tweet-comment__user {
+    padding-left: 0.5rem;
+    color: #455a64;
+  }
+  .tweet-comment p {
+    padding: 0.5rem 0;
+  }
+  #para{
+      padding-left: 15px;
+  }
+  #error {
+    color: red;
+  }
